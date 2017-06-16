@@ -9,14 +9,16 @@
 - [How to Remove Logos from Clothing in Photoshop]() √ ∆
 - [How to Remove Distracting Logos in Photoshop]() √(remove-branding.zip) ∆ 
 - [How to Retouch Hair in Photoshop]()   √
-- [How to Retouch Environments in Photoshop]()？ ∆
+- [How to Retouch Environments in Photoshop]()√ ∆
 - [How to Remove Acne in Photoshop]()  ∆
 - [How to Add Fog & Light in Photoshop]() √ ∆ 笔刷
 - [How to Use Graduated + Radial Filters in Lightroom]() (gradient-radial.zip) √ ∆
 - [How to Cut Out Hair with the Brush Tool in Photoshop]() (Phlearn+Hair+Brush.zip) ∆
 - [? How to Color Tone with Apply Image in Photoshop]() ∆
 - [How to Create Perfect Shadows in Photoshop]() ∆
-- [How to Retouch Environments in Photoshop]() ?
+- [How to Create a Tilt-Shift Effect in Photoshop]()√
+- [How to Remove Haze in Photoshop + Lightroom]()√
+
 
 ***
 
